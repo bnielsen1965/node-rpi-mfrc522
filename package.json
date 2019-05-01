@@ -1,5 +1,5 @@
 {
-  "name": "node-rpi-mfrc522",
+  "name": "rpi-mfrc522",
   "version": "1.0.0",
   "description": "A NodeJS module for the MFRC522 RFID card reader on a Raspberry Pi.",
   "main": "lib/index.js",
